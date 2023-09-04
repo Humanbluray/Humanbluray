@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Humanbluray
-- 👀 I’m interested in python,  java
+- 👀 I’m interested in python,  javascript
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate with other members and improve my skills in python 
 - 📫 How to reach me
